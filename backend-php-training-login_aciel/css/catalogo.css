@@ -1,0 +1,88 @@
+
+#btn{
+    font-size: 1.2em;
+    margin-left: 46%;
+margin-top: 3%;
+    color: white; 
+    background: black;
+    border: none;
+    padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 7px;
+   padding-top: 7px;
+    border-radius: 20px;
+}
+
+#btn:hover{
+    color: rgb(150, 150, 150); 
+    background: rgb(82, 82, 82);
+}
+
+#btn2{
+    margin-left: 5%;
+    font-size: 1.2em;
+    margin-left: 5px;
+    color: white; 
+    background: rgb(100, 27, 27);
+    border: none;
+    padding-left: 15px;
+   padding-right: 15px;
+   padding-bottom: 7px;
+   padding-top: 7px;
+    border-radius: 20px;
+}
+
+#btn2:hover{
+
+    background: rgb(145, 49, 49);
+}
+
+.foto{
+ height: 300px;
+ width: 300px;
+margin-bottom: 10px;
+}
+.cont1{
+    margin: auto;
+    width: 60%;
+}
+.cont2{
+    margin-top: 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.inf{
+    border: 1px solid  #ddd;
+    box-shadow: #d1d1d1b6 1px 6px 8px;
+    display: grid;
+    padding: 20px;
+    text-align: center;
+   
+}
+
+h1{
+    font-size: 2em;
+    margin-top: 12%;
+    text-align: center;
+}
+
+input[type="text"]{
+
+margin: auto;
+  text-align: center;
+    margin-top: 10px;
+    border: 1px solid #d3d3ce;
+     width: 28%;
+     border-radius: 15px;
+     padding-bottom: 4px;
+     padding-top: 4px; 
+}
+
+.errormsg{
+    background-color: rgb(228, 163, 163);
+}
+
+.ob4{
+    display: grid;
+}

@@ -1,0 +1,9 @@
+Factura
+
+Nombre :Producto 3
+Cantidad :1
+Precio :50
+Subtotal :50
+
+
+Total :50

@@ -1,0 +1,19 @@
+Factura
+
+Codigo :Producto 1
+Nombre :1
+Cantidad :25
+Subtotal :25
+
+Codigo :Producto 2
+Nombre :1
+Cantidad :15
+Subtotal :15
+
+Codigo :Producto 3
+Nombre :1
+Cantidad :50
+Subtotal :50
+
+
+Total :90
